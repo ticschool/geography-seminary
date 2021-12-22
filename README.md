@@ -52,7 +52,7 @@ Team Pushpa Shanthi Kendram 🏚️💊
 - Important for both passenger & cargo transport
 - Rail transport started in 1853
 - First Train
-  - Rand 34 KM
+  - Ran 34 KM
   - Through rail between Mumbai & Thane
 
 ![rail path](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Indian_Railways_network-en.svg/1200px-Indian_Railways_network-en.svg.png)
@@ -98,3 +98,14 @@ Water bodies are classified into 2
   - Both international  & domestic services
   - Handled by **Air India** and **Indian Airlines**
   - Private companies also operate flight services
+
+## Questions 🤔
+
+1. Pushpa Shanthi PVT LMT is planning to export C10H15N(Methamphetamine), the head of export Rahul decided to export it through water transport, but why ?
+2. How manu waterways in India were declared as **national waterways** ?
+3. How modes of transport are selected ?
+4. CEO of Pushpa Shanthi decided to start a company named Pushpa Energy Kendram, he chose Non-conventional sources of energy over conventional source of energy, why ? 
+5. Examples for conventional energy sources ?
+6. How many international air ports are there in India ?
+7. Which is the largest public sector in India ?
+
